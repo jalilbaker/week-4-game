@@ -1,0 +1,19 @@
+body {
+	background-image: url("../../assets/images/crystalbackground.jpg");
+}
+h1 {
+	color: #fff;
+	background-color: 	#FF8C00;
+	padding: 10px 20px 10px 20px;
+	margin: 10px 900px 10px 20px;
+}
+.rules {
+	color: #8FBC8F;
+	background-color: #FFE4C4;
+	padding: 10px 20px 10px 20px;
+	margin: 10px 700px 10px 20px;
+}
+.randomnumber{
+	color: #8B008B;
+	background-color: #556B2f;
+}
